@@ -1,0 +1,34 @@
+{
+  "name": "gg2",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "environments": [],
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  },
+  "directories": {
+    "assets": [
+      {
+        "id": "4PDf9v3BTxpaaA7J8TK1u",
+        "name": "a"
+      }
+    ],
+    "components": [],
+    "pages": [],
+    "scripts": [],
+    "services": [],
+    "stylesheets": []
+  }
+}
